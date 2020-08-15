@@ -1,0 +1,95 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Shoba Lubis",
+          "umur": 23,
+          "nohp": "0821000000",
+          "alamat": "Kediri"
+        },
+        {
+          "id": 2,
+          "nama": "Hapsari",
+          "umur": 23,
+          "nohp": "0821000666",
+          "alamat": "Madiun"
+        },
+        {
+          "id": 3,
+          "nama": "Yusril Ananda",
+          "umur": 21,
+          "nohp": "0821000555",
+          "alamat": "Pacitan"
+        },
+        {
+          "id": 4,
+          "nama": "Tambah Rizki",
+          "umur": 22,
+          "nohp": "0821000555",
+          "alamat": "Purbalingga"
+        },
+        {
+          "id": 5,
+          "nama": "Rizky Nur Cahyana",
+          "umur": 21,
+          "nohp": "0821000444",
+          "alamat": "Boyolali"
+        },
+        {
+          "id": 6,
+          "nama": "Aldi Saragih",
+          "umur": 22,
+          "nohp": "0821000777",
+          "alamat": "Medan"
+        },
+        {
+          "id": 7,
+          "nama": "Bayu Aji Prakoso",
+          "umur": 21,
+          "nohp": "0821000111",
+          "alamat": "Batang"
+        },
+        {
+          "id": 8,
+          "nama": "Ni Made Rolina",
+          "umur": 21,
+          "nohp": "08210008888",
+          "alamat": "Lampung"
+        },
+        {
+          "id": 9,
+          "nama": "Amien Jafar",
+          "umur": 21,
+          "nohp": "0821000555",
+          "alamat": "Karanganyar"
+        },
+        {
+          "id": 10,
+          "nama": "Ita Wulansari",
+          "umur": 21,
+          "nohp": "0821000555",
+          "alamat": "Purwantoro"
+        },
+        {
+          "id": 11,
+          "nama": "Bahrul Bangsawan",
+          "umur": 21,
+          "nohp": "0821000555",
+          "alamat": "Makasar"
+        },
+        {
+          "id": 12,
+          "nama": "Alif Hamzah",
+          "umur": 21,
+          "nohp": "0821000555",
+          "alamat": "Papua"
+        },
+        {
+          "id": 13,
+          "nama": "Fatah Noor",
+          "umur": 37,
+          "nohp": "0821000555",
+          "alamat": "Kediri"
+        }
+      ]
+}
